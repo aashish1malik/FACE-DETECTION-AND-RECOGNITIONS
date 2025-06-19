@@ -70,7 +70,7 @@ opencv-python-headless==4.8.1.78
 # Face recognition (using TF 2.10 which has wider compatibility)
 keras-facenet==0.3.2
 mtcnn==0.1.1
-tensorflow-cpu==2.10.1
+tensorflow==2.11.0
 keras==2.10.0
 
 # Machine learning
