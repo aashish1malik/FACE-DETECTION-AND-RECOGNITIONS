@@ -63,8 +63,8 @@
 # Core requirements
 streamlit==1.26.0
 
-# Face detection
-ultralytics==8.0.20
+# Face detection (using newer compatible version)
+ultralytics==8.1.0
 opencv-python-headless==4.8.1.78
 
 # Face recognition
