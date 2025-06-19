@@ -63,15 +63,15 @@
 # Core requirements
 streamlit==1.26.0
 
-# Face detection (using newer compatible version)
+# Face detection
 ultralytics==8.1.0
 opencv-python-headless==4.8.1.78
 
-# Face recognition
+# Face recognition (using TF 2.10 which has wider compatibility)
 keras-facenet==0.3.2
 mtcnn==0.1.1
-tensorflow-cpu==2.11.0
-keras==2.11.0
+tensorflow-cpu==2.10.1
+keras==2.10.0
 
 # Machine learning
 scikit-learn==1.2.2
