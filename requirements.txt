@@ -1,0 +1,9 @@
+opencv-python
+numpy
+ultralytics==8.3.156
+keras-facenet
+faiss-cpu
+scikit-learn
+torch
+tensorflow
+streamlit
