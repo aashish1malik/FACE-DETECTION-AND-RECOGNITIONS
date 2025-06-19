@@ -24,28 +24,28 @@
 # tensorflow==2.11.0
 # ultralytics==8.0.20
 
-# Core requirements
-streamlit==1.26.0
+# # Core requirements
+# streamlit==1.26.0
 
-# Face detection and recognition
-ultralytics==8.0.20
-keras-facenet==0.3.2
-mtcnn==0.1.1
+# # Face detection and recognition
+# ultralytics==8.0.20
+# keras-facenet==0.3.2
+# mtcnn==0.1.1
 
-# Machine learning and processing
-numpy==1.24.3
-opencv-python-headless==4.8.1.78
-scikit-learn==1.2.2
-faiss-cpu==1.7.4
+# # Machine learning and processing
+# numpy==1.24.3
+# opencv-python-headless==4.8.1.78
+# scikit-learn==1.2.2
+# faiss-cpu==1.7.4
 
-# TensorFlow/Keras (specific versions for compatibility)
-tensorflow==2.11.0
-keras==2.11.0
+# # TensorFlow/Keras (specific versions for compatibility)
+# tensorflow==2.11.0
+# keras==2.11.0
 
-# Additional utilities
-pandas==1.5.3
-Pillow==9.5.0
-protobuf==3.20.3
+# # Additional utilities
+# pandas==1.5.3
+# Pillow==9.5.0
+# protobuf==3.20.3
 
 
 # faiss-cpu==1.7.4
@@ -58,3 +58,27 @@ protobuf==3.20.3
 # streamlit==1.26.0
 # tensorflow==2.13.0
 # ultralytics==8.1.33
+
+
+# Core requirements
+streamlit==1.26.0
+
+# Face detection
+ultralytics==8.0.20
+opencv-python-headless==4.8.1.78
+
+# Face recognition
+keras-facenet==0.3.2
+mtcnn==0.1.1
+tensorflow-cpu==2.11.0
+keras==2.11.0
+
+# Machine learning
+scikit-learn==1.2.2
+faiss-cpu==1.7.4
+numpy==1.24.3
+protobuf==3.20.3
+
+# Utilities
+Pillow==9.5.0
+pandas==1.5.3
